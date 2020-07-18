@@ -11,10 +11,10 @@ const reviews = [
     },
     {
       id: 2,
-      name: "anna johnson",
-      job: "web designer",
+      name: "Joz-Bruer Quince",
+      job: "Software Engineer",
       img:
-        "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
+        "https://cdn.intra.42.fr/users/jquince.jpg",
       text:
         "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
     },
